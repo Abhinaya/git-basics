@@ -1,5 +1,5 @@
 ---
 # GIT
 ---
-# What is Version control?
+* What is Version control? *
 ---
