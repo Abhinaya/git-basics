@@ -5,4 +5,4 @@
 ---
 ** GIT is a distributed version control system **
 ---
-![Logo](assets/git_distributed_vcs.png)&size=auto 50%
+---?image=assets/git-distributed_vcs.png&size=auto
