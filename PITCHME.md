@@ -3,5 +3,10 @@
 ---
 ** What is Version control? **
 ---
-** GIT is a distributed version control system **
+** GIT **
++++
+Linus Torvalds
+---?image=http://cdn.facesofopensource.com/wp-content/uploads/2017/02/09202215/linus.faces22052.web_.jpg&size=auto 60%
++++
++++
 ---?image=assets/git_distributed_vcs.png&size=auto 60%
